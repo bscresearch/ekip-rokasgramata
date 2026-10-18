@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tālizpētes dati on Rokasgrāmata</title>
+    <link>__SITE_BASE__docs/chapters/14/</link>
+    <description>Recent content in Tālizpētes dati on Rokasgrāmata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>lv</language><atom:link href="__SITE_BASE__docs/chapters/14/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Satelītattēlu izmantošana maza mēroga lauksaimniecības monitorēšanā</title>
+      <link>__SITE_BASE__docs/chapters/14/14-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>__SITE_BASE__docs/chapters/14/14-1/</guid>
+      <description>Satelītattēlu izmantošana maza mēroga lauksaimniecības monitorēšanā
+#
+
+
+Pārtika
+
+Digitalizācija
+
+Situācija
+#
+
+Mazajām saimniecībām ir nozīmīga loma pārtikas ražošanā, kā arī vides pakalpojumu nodrošināšanā un apdzīvotības un kopienu uzturēšanā lauku teritorijās. Tomēr ir sarežģīti pilnīgi apzināt mazajās saimniecībās audzētās lauksaimniecības kultūras, to platības un ražošanas apjomus. Iemesli tam ir vismazāko saimniecību neiekļaušana oficiālajās statistikas aptaujās un daudzu mazo saimniecību neformālais darbības veids (piemēram, produktu došana bez maksas vai apmaiņā pret pakalpojumu saimniecībā, saimnieciskās darbības nedeklarēšana).</description>
+    </item>
+    
+  </channel>
+</rss>

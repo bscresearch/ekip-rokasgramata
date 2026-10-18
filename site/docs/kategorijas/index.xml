@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tēmas on Rokasgrāmata</title>
+    <link>__SITE_BASE__docs/kategorijas/</link>
+    <description>Recent content in Tēmas on Rokasgrāmata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>lv</language><atom:link href="__SITE_BASE__docs/kategorijas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pārtika</title>
+      <link>__SITE_BASE__docs/kategorijas/partika/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>__SITE_BASE__docs/kategorijas/partika/</guid>
+      <description>Ilgtspējīgas pārtikas sistēmas
+#
+
+
+Pārskats
+#
+
+Ilgtspējīgas pārtikas sistēmas (IPS) ir pārtikas aprites organizācijas veids, kas paredz nodrošināt sabiedrību ar veselīgu pārtiku, vienlaikus tiecoties uz neitrālu vai pozitīvu pārtikas aprites ietekmi uz vidi un ekonomiskajām un sociālajām institūcijām (FAO, 2018). Uz ilgtspēju vērstas pārtikas sistēmas reformas tiecas ierobežot pārtikas apritē identificētos negatīvos aprites blakus efektus. Ilustrējot šādus negatīvos blakus efektus var minēt, piemēram, pieprasījuma pēc lētas pārtikas vēsturisko ietekmi uz dominējošajām pārtikas ražošanas praksēm, kas ilgtermiņā ir veicinājis ļoti efektīvu, bet neilgtspējīgu lauksaimniecības modeļu izplatību.</description>
+    </item>
+    
+    <item>
+      <title>Lauki - Pilsētas</title>
+      <link>__SITE_BASE__docs/kategorijas/lauki-pilseta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>__SITE_BASE__docs/kategorijas/lauki-pilseta/</guid>
+      <description>Lauku-pilsētu mijattiecības
+#
+
+
+Pārskats
+#
+
+Lauki un pilsētas tradicionāli iezīmējas kā atšķirīgas telpas ar katrai raksturīgām sociālām, ekonomiskām un ainavas iezīmēm. Pilsētās koncentrējas dažādi resursi (cilvēkresursi, finanšu, zināšanas u.c.), pakalpojumi un sociālās un ekonomiskās aktivitātes, kas stimulē lielāku dinamiku un inovācijas. Laukiem raksturīga dabas klātbūtne, dabas resursos balstītas ekonomiskās aktivitātes (lauksaimniecība un pārtikas ražošana, mežsaimniecība), izkliedētāka apdzīvotība un sociālās aktivitātes. Nereti lauki un pilsētas arī tiek uztvertas kā nošķirtas telpas ar atšķirīgām vajadzībām.</description>
+    </item>
+    
+    <item>
+      <title>Digitalizācija</title>
+      <link>__SITE_BASE__docs/kategorijas/digitalizacija/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>__SITE_BASE__docs/kategorijas/digitalizacija/</guid>
+      <description>Lauku digitalizācija
+#
+
+
+Pārskats
+#
+
+Ar jēdzienu digitalizācija vai digitālā transformācija apzīmē masveida pāreju uz digitālo rīku un tehnoloģiju izmantošanu dažādās nozarēs, vienlaikus sekmējot arī izmaiņas cilvēku ikdienas saziņā, kultūrā un tautsaimniecībā. Ar to netiek saprastas iespējamas izmaiņas kādā tālā nākotnē, bet gan esošā situācija, jo digitalizācija jau šobrīd ietekmē visas tautsaimniecības jomas, cilvēku ikdienu, darbu un savstarpējo saziņu.
+Raksturojot digitālo transformāciju, nereti tiek aizmirsts, ka digitalizācija ir process, kas sevī ietver gan tehnoloģisku, gan sociālu komponenti.</description>
+    </item>
+    
+  </channel>
+</rss>

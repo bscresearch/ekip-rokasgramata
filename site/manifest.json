@@ -1,0 +1,15 @@
+{
+  "name": "Rokasgrāmata",
+  "short_name": "Rokasgrāmata",
+  "start_url": "__SITE_BASE__",
+  "scope": "__SITE_BASE__",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "__SITE_BASE__assets/icons/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
