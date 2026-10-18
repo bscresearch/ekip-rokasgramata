@@ -1,0 +1,6 @@
+@font-face{font-family:'Roboto Slab';font-style:normal;font-weight:300;font-display:swap;src:url('../fonts/roboto-slab-300.ttf') format('truetype');}
+@font-face{font-family:'Roboto Slab';font-style:normal;font-weight:400;font-display:swap;src:url('../fonts/roboto-slab-400.ttf') format('truetype');}
+@font-face{font-family:'Roboto Slab';font-style:normal;font-weight:700;font-display:swap;src:url('../fonts/roboto-slab-700.ttf') format('truetype');}
+body{font-family:'Roboto Slab',Georgia,serif;font-weight:400;}
+.markdown{line-height:1.65;}
+.markdown h1,.markdown h2,.markdown h3,.book-brand{font-weight:400;}
