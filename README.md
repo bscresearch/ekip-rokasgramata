@@ -1,6 +1,6 @@
 **Sadarbība viedai un ilgtspējīgai teritoriālai attīstībai**
 
-Latvian handbook published in 2022 by Baltic Studies Centre. Illustrations by Daina Jurķe. Full author credits appear on the homepage.
+Latvian handbook published in 2021 by Baltic Studies Centre. Illustrations by Daina Jurķe. Full author credits appear on the homepage.
 
 ## Structure
 
