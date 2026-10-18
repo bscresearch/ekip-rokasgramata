@@ -1,0 +1,22 @@
+/* Front-page layout; handbook chapters retain their existing styles. */
+.handbook-home { padding: 1rem 0 0; }
+.handbook-home .home-intro { max-width: 52rem; }
+.handbook-home h1 { max-width: 26ch; margin: 0 0 1.25rem; font-size: clamp(2rem, 3.5vw, 3rem); line-height: 1.18; letter-spacing: -.025em; text-wrap: balance; }
+.handbook-home .home-subtitle { max-width: 46rem; margin: 0 0 1.5rem; font-size: 1.125rem; line-height: 1.65; font-weight: 300; }
+.handbook-home .home-read { display: inline-flex; align-items: center; gap: .75rem; padding: .65rem 0; color: #28452c; font-size: 1rem; border-bottom: 1px solid #acbd6b; text-decoration: none; }
+.handbook-home .home-read:hover { color: #152d19; border-bottom-color: currentColor; text-decoration: none; }
+.handbook-home a:focus-visible { outline: 2px solid #687e35; outline-offset: 5px; }
+.handbook-home .home-illustration { width: 72%; max-width: 46rem; margin: 2.5rem auto 2.75rem; }
+.handbook-home .home-illustration img { display: block; width: 100%; height: auto; }
+.handbook-home .home-publication { display: grid; grid-template-columns: minmax(0, 1fr) 170px; align-items: center; gap: 2.25rem; padding: 1.5rem 0 .5rem; border-top: 1px solid #e3e7df; font-size: .8125rem; line-height: 1.75; }
+.handbook-home .home-publication p { margin: 0 0 .65rem; }
+.handbook-home .home-credit-label { font-weight: 400; }
+.handbook-home .home-publication-details { font-weight: 300; }
+.handbook-home .home-logo { display: block; background: white; }
+.handbook-home .home-logo img { display: block; width: 170px; max-width: 100%; height: auto; }
+@media (max-width: 56rem) {
+  .handbook-home { padding-top: .5rem; }
+  .handbook-home .home-illustration { width: 100%; margin: 2rem auto; }
+  .handbook-home .home-publication { grid-template-columns: 1fr; gap: .75rem; }
+  .handbook-home .home-logo img { width: 145px; }
+}
