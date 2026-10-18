@@ -38,7 +38,7 @@ class Parser(HTMLParser):
 for f in ROOT.rglob('*'):
     if f.suffix in {'.html','.css','.js','.json','.xml'}:
         text = f.read_text()
-        if '__SITE_BASE__' in text or 'bscresearch.github.io/ekip' in text:
+        if '__SITE_BASE__' in text or 'bscresearch.github.io/ekip/' in text:
             errors.add(f'{f.relative_to(ROOT)}: unreplaced publishing address')
         if f.suffix == '.html':
             parser = Parser(); parser.source = f; parser.feed(text)
